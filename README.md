@@ -1,5 +1,5 @@
 # betweenJS v1.0.0
-## Write HTML and CSS in JS easly.
+## Write HTML and CSS in JS easily.
 #### betweenJS package is in development may you find some bugs.
 
 ### Installing
