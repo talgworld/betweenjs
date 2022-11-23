@@ -10,4 +10,4 @@
 #### enjoy :) you can use it now, all directions inside and it's easy to use.
 #### To make new project use static folder and modify the indexUI.js and indexJS.js files, or make yours.
 
-#### Note that betweenJS works with express framework.
+#### -Note that betweenJS works with express framework.
